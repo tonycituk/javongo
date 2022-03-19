@@ -90,6 +90,6 @@ docker-compose up -d
 ```bash
 docker-compose down -v
 ```
-You can kill the srpingboot procces, pressing <kbd>Ctrl</kbd> + <kbd>c</kbd> in the terminal where the procces is running.
+You can kill the springboot process, pressing <kbd>Ctrl</kbd> + <kbd>c</kbd> in the terminal where the procces is running.
 
 Made with 💗 and </>.
